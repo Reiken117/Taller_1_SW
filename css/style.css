@@ -422,9 +422,9 @@ h6, .h6 {
 }
 
 .display-1 {
-  font-size: 8rem;
+  font-size: 5.5rem;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: .9;
 }
 
 @media (max-width: 1200px) {
